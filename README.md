@@ -1,1 +1,1 @@
-Files include all datasets sourced from Eurostat, FRED, OECB, and other websites; all .R files with code used for processing and analysis; and all Jupyter notebooks for processes that could not be done in R.
+Files include all datasets sourced from Eurostat, FRED, OECB, and other websites; all .R files with code used for processing and analysis; and all Jupyter notebooks for processes that could not be done in R. Additionally full Dissertation included as well. 
